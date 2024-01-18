@@ -1,1 +1,2 @@
 # Car-Price-Prediction
+This is the project to predict the car price. In this project, Exploratory Data Analysis (EDA), Data processing and feature engineering, modelling,using linear regression for future prediction. Arrays ,Data frames, Charts and Graphs are used in this project for visualisation .Arrays ,Data frames, Charts and Graphs and visualisation are used to predict trends, correlation of the data through EDA, a countplot bar to see the distribution of the cars
